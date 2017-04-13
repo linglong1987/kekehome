@@ -1,1 +1,2 @@
-dev
+<?php
+echo 'hello';
